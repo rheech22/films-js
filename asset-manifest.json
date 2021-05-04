@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rheech22/movie_app/static/css/main.9d323588.chunk.css",
+    "main.js": "/rheech22/movie_app/static/js/main.ff2a25fc.chunk.js",
+    "main.js.map": "/rheech22/movie_app/static/js/main.ff2a25fc.chunk.js.map",
+    "runtime-main.js": "/rheech22/movie_app/static/js/runtime-main.60bd5cbd.js",
+    "runtime-main.js.map": "/rheech22/movie_app/static/js/runtime-main.60bd5cbd.js.map",
+    "static/js/2.b12bd23d.chunk.js": "/rheech22/movie_app/static/js/2.b12bd23d.chunk.js",
+    "static/js/2.b12bd23d.chunk.js.map": "/rheech22/movie_app/static/js/2.b12bd23d.chunk.js.map",
+    "index.html": "/rheech22/movie_app/index.html",
+    "static/css/main.9d323588.chunk.css.map": "/rheech22/movie_app/static/css/main.9d323588.chunk.css.map",
+    "static/js/2.b12bd23d.chunk.js.LICENSE.txt": "/rheech22/movie_app/static/js/2.b12bd23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60bd5cbd.js",
+    "static/js/2.b12bd23d.chunk.js",
+    "static/css/main.9d323588.chunk.css",
+    "static/js/main.ff2a25fc.chunk.js"
+  ]
+}
